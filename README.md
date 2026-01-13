@@ -2,7 +2,8 @@
 SOB is a personal approach to creating a DMX controller for live show production
 The main components are:
 
- -> 10 Motorized Faders
+ > 10 Motorized Faders
+ 
  	- PID control
  		-> Indivual PWM control
  		-> Individual PWM sintonization
@@ -12,22 +13,26 @@ The main components are:
  		-> Chase/scene page
  		-> Quick "Channel link"
  		
- -> 1 DMX Universe
+ > 1 DMX Universe
+ 
  	- Blackout
  	- Fade in/out
  	- Clear
  	- Scenes
  	- Chases
  	
- -> 7 inch touch tft display
+ > 7 inch touch tft display
+ 
  	- GUI
  	- Fast touch utility (Link channels,Page select)
  	
- -> 4 encoders
+ > 4 encoders
+ 
  	- Quick Channel link (for focus, pan and tilt)
  	- Fast page selector
  	
- -> 6 buttons
+ > 6 buttons
+ 
  	- Blackout
  	- Clear
  	- Start record
