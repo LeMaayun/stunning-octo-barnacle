@@ -34,5 +34,6 @@ The main components are:
  	- Save step
 	- Save Scenes
 	- Save Chase
- 	
+ 
+ Currently working on: 10 motorized Faders
  
