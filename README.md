@@ -52,5 +52,6 @@ Buttons are necessesary to give Quick access to functions.
 - Save Chase
 - Delete 
 - Call Scene / Chase
+
 Currently working on: 10 motorized Faders, so basically its all smoke until i have something solid.
  
