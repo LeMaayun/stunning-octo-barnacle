@@ -1,1 +1,12 @@
 /Debug/
+/Release/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+.project
+.cproject
+.settings/
+*~
