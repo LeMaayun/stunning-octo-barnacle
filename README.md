@@ -12,7 +12,7 @@ The first prototypes was made on the STMF103B8T6 but since it lacks of Timers, o
  
 - PID control
 	- Individual PWM control
- 	- Individual PWM sintonization
+ 	- Individual PID sintonization
  	- Individual H-Bridge Control (L293D && MCP23017)
  		
 - Page system
