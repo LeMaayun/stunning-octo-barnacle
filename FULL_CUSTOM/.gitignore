@@ -5,8 +5,5 @@
 *.bin
 *.hex
 *.map
-*.lst
-.project
-.cproject
-.settings/
+*.lst/
 *~
