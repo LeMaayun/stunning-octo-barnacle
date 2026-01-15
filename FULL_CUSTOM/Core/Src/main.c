@@ -146,7 +146,7 @@ int main(void)
   MX_UART7_Init();
   MX_UART8_Init();
   /* USER CODE BEGIN 2 */
-
+  //just a tiny difference
   /* USER CODE END 2 */
 
   /* Infinite loop */
