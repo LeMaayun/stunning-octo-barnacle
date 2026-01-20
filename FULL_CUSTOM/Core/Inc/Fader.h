@@ -32,7 +32,6 @@ typedef struct {
     PID *pid;
     FaderState state;
 
-    // Posición (0-4095 típicamente para ADC de 12 bits)
     float position;
     float lastPosition;
     float setpoint;
